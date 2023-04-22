@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
       <Weather/>
       <footer>
-      This project was coded by Mahsa Manafpour and <a href='https://github.com/mahsamnfpr/react-weather-five' target="_blank">open-sourced on GitHub</a>
+      This project was coded by Mahsa Manafpour and <a href='https://github.com/mahsamnfpr/react-weather-five' target="_blank" rel="noreferrer">open-sourced on GitHub</a>
       </footer>
     </div>
       </div>
