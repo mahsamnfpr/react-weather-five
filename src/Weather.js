@@ -25,9 +25,9 @@ export default function Weather() {
             </ul>
             <div className="row" mt-3>
                 <div className="col-6">
-                    <div className="clearfix float-left">
+                    <div className="clearfix">
                     <img src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png" alt="" className="float-left"/>
-                    <div className="float-left">
+                    <div className="float-left d-inline-block">
                     <span className="temperature">6</span>
                     <span className="unit">°C</span>
                     </div>
